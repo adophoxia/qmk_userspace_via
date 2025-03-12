@@ -1,0 +1,3 @@
+[submodule "modules/adophoxia"]
+	path = modules/adophoxia
+	url = https://github.com/adophoxia/qmk_modules.git
